@@ -17,5 +17,5 @@ eConnect is an innovative Flutter application designed to streamline one's profe
 - IDE: VS Code or Android Studio(Preferred)
 
 # License
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/nehanpnair/eConnect/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/nehanpnair/eConnect/blob/main/LICENSE.txt) for more information.
   
