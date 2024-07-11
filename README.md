@@ -1,16 +1,21 @@
-# mi_kard
+# eConnect
+eConnect is an innovative Flutter application designed to streamline one's professional presence. By consolidating one's contact information and social media profiles into a single, convenient interface, eConnect ensures that you can easily share your professional details with colleagues, recruiters, and collaborators.
 
-A new Flutter project.
+# Features
+- Personal Profile: Showcases one's name, position, and profile picture.
+- Contact Information: Provides one's contact number and email address.
+- Professional Links: Includes quick access to one's LinkedIn, Discord, and GitHub profiles.
+- Interactive Interface: Offers a user-friendly and visually appealing layout.
 
-## Getting Started
+# Interface Design:
+![ss_ec](https://github.com/nehanpnair/eConnect/assets/159271815/297003ce-e55b-4a43-898b-fd0471fb8381)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Pre-requisites
+- Flutter SDK: Install Flutter
+- Dart SDK: Included with Flutter Installation
+- IDE: VS Code or Android Studio(Preferred)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# License
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/nehanpnair/eConnect/blob/main/LICENSE) for more information.
+  
